@@ -1,0 +1,2 @@
+# PaintJS
+VanilaJS Paint Tool
